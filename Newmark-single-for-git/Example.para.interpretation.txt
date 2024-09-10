@@ -1,0 +1,8 @@
+CHY080.txt             # fn- Filename of Accleration data
+136.0                  # str- Strike of sliding plane relative to North
+14.0                   # dip- Dip of sliding plane
+0.44                   # mur- residual friction coefficient
+0.38                   # mup- peak friction coefficient
+0.076                  # mus- steady-state friction coefficient
+4.9                    # Dc- Critical distance [m]
+0.15                   # vc- Critical velocity [m/s]
